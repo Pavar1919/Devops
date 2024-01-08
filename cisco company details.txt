@@ -1,0 +1,21 @@
+**Cisco Systems, Inc.** is an American-based multinational digital communications technology conglomerate corporation headquartered in San Jose, California ¹. It was founded in December 1984 by Leonard Bosack and Sandy Lerner, two Stanford University computer scientists who had been instrumental in connecting computers at Stanford ¹. 
+
+The current **CEO and Chairman** of Cisco is Chuck Robbins ¹. 
+
+As of July 29, 2023, Cisco's revenue is **$56.99 billion** ¹. Cisco's operating income is **$15.03 billion**, and its net income is **$12.61 billion** ¹. Cisco's total assets are **$101.8 billion**, and its total equity is **$44.35 billion** ¹. As of 2023, Cisco has nearly **84,900 employees** ¹.
+
+
+
+**Cisco** is a global leader in offering products and services for networking, cloud, and cybersecurity ¹. It provides solutions for various industries and scenarios, including small and midsize businesses, large enterprises, and service providers ¹. Cisco's products and services include routers, switches, wireless systems, security systems, collaboration tools, data center solutions, and more ¹. 
+
+Cisco also offers training and certification programs through its **Networking Academy** ². The Networking Academy provides free online classes in cybersecurity, networking, Python, and other IT-related fields ². It also offers job matching and teaching resources ². 
+
+
+
+
+**Cisco Firepower** is a suite of network security and traffic management products that can be deployed either on purpose-built platforms or as a software solution ¹². It is designed to help you handle network traffic in a way that complies with your organization's security policy ². 
+
+The Firepower System can run on fault-tolerant, purpose-built physical network appliances available from Cisco ³. There are several models of each Firepower Management Center and managed device; these models are further grouped into series and family ³. Physical managed devices come in a range of throughputs and have a range of capabilities ³. 
+
+The Firepower 1000 Series is a world-class firewall solution that is easy to manage, detects more threats, but costs less ¹. It is ideal for small and midsize businesses and provides robust protection ¹. The Firepower 1000 Series is offered in four different models: Firepower 1010, Firepower 1120, Firepower 1140, and Firepower 1150 ¹. Each model has different specifications and is tailored to different business needs ¹. 
+

@@ -1,0 +1,59 @@
+There are numerous Linux commands out there. Here are some of the commonly used commands in Linux, organized in alphabetical order:
+
+| **Command** | **Description** |
+|-------------|-----------------|
+| `alias` | Creates an alias for a command. |
+| `awk` | Manipulates text and data files. |
+| `basename` | Prints the final component in a file path. |
+| `cal` | Displays a calendar. |
+| `cat` | Concatenates and displays files. |
+| `cd` | Changes the current directory. |
+| `chmod` | Changes the permissions of a file or directory. |
+| `chown` | Changes the owner of a file or directory. |
+| `clear` | Clears the terminal screen. |
+| `cp` | Copies files and directories. |
+| `curl` | Transfers data from or to a server. |
+| `cut` | Cuts out sections from a file. |
+| `date` | Displays the current date and time. |
+| `df` | Displays the disk space usage. |
+| `diff` | Compares two files. |
+| `du` | Displays the disk usage of a file or directory. |
+| `echo` | Displays a message. |
+| `exit` | Exits the shell. |
+| `find` | Searches for files and directories. |
+| `grep` | Searches for a pattern in a file. |
+| `head` | Displays the first lines of a file. |
+| `history` | Displays the command history. |
+| `kill` | Terminates a process. |
+| `less` | Displays the contents of a file one page at a time. |
+| `ln` | Creates a link between files. |
+| `ls` | Lists the files and directories in the current directory. |
+| `man` | Displays the manual page for a command. |
+| `mkdir` | Creates a new directory. |
+| `mv` | Moves or renames files and directories. |
+| `nano` | Edits a file. |
+| `netstat` | Displays network connections. |
+| `passwd` | Changes the password of a user. |
+| `ps` | Displays information about running processes. |
+| `pwd` | Displays the current directory. |
+| `rm` | Removes files and directories. |
+| `rmdir` | Removes an empty directory. |
+| `scp` | Copies files between hosts. |
+| `sed` | Edits a file using a script. |
+| `shutdown` | Shuts down the system. |
+| `sort` | Sorts the lines of a file. |
+| `ssh` | Connects to a remote host. |
+| `tail` | Displays the last lines of a file. |
+| `tar` | Archives files. |
+| `top` | Displays system processes. |
+| `touch` | Creates a new file. |
+| `traceroute` | Traces the route taken by packets over an IP network. |
+| `uname` | Displays system information. |
+| `uniq` | Filters out adjacent matching lines. |
+| `vi` | Edits a file. |
+| `wc` | Counts the number of lines, words, and characters in a file. |
+| `wget` | Downloads files from the web. |
+| `whoami` | Displays the current user. |
+| `zip` | Compresses files. |
+
+T

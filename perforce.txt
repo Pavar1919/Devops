@@ -1,0 +1,27 @@
+Perforce is a commercial version control system that allows developers to track changes in their codebase. 
+It is a centralized system, which enhances security and scalability 
+12. Git, on the other hand, is a distributed version control system that is open-source and free to use 
+1. Git is widely adopted by the industry and is suitable for code-only projects with a small group of developers and fast release cycles 1.
+
+Here are some of the commonly used commands in Perforce:
+
+p4 add: Adds a file to the repository.
+p4 edit: Marks a file for editing.
+p4 submit: Submits a file to the repository.
+p4 sync: Updates the local workspace with the latest changes from the repository.
+p4 revert: Discards changes made to a file.
+p4 diff: Shows the differences between two revisions of a file.
+p4 changes: Lists the changes made to files in the repository.
+p4 describe: Shows the details of a changelist.
+p4 client: Creates or modifies a client workspace specification.
+
+
+
+You can install Perforce on your machine by following these steps:
+
+1. Make a directory for your installation on your local machine.
+2. Navigate to the Helix Core Visual Client (P4V) downloads page ¹.
+3. Select your family, and platform, then click Download.
+4. Extract p4v.tgz and install the application.
+5. Invoke the executable: `./p4v`.
+
